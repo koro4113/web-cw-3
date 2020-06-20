@@ -1,0 +1,37 @@
+img{
+
+    display: block;
+    }
+ 
+    h1{
+   color: blueviolet;
+   text-align: center;
+      }
+
+    ul{
+        list-style-type:none;
+    }
+
+    .PS4{
+        background-color: blue;
+    }
+
+    .Nintendo{
+      background-color: red;
+    }
+
+    .PS{
+      background-color: green;
+    }
+
+    th{
+        display: inline-block;
+    }
+    table{
+        border-collapse: collapse;
+    }
+
+    table, td, th{
+
+    border: 1px solid black;
+    }
